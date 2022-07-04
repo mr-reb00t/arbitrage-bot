@@ -1,0 +1,14 @@
+{
+    "allowSequentialSequences": false,
+    "orderMaxAmount": "15.00",
+    "minProfit": "0.05",
+    "enabledCurrencies": [
+        "USDT", "USDC", "BUSD",
+        "BTC", "LTC", "ETH"
+    ],
+    "multipleSequences": false,
+    "maximumSequences": 0,
+    "timeBetweenSequences": 0,
+    "maxDepth": 5,
+    "exchanges": [ "Binance", "Poloniex" ]
+}
